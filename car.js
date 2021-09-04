@@ -6,7 +6,7 @@ $car=$('.car');
 $img=$('.car img');
 let flag=true;
 
-const cars=['./image/Img_05.png','./image/Img_06.png']
+const cars=['./Img_05.png','./Img_06.png']
 
 //keypress event
 $(document).on('keypress',function(e){
